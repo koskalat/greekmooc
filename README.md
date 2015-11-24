@@ -1,7 +1,7 @@
 Overview
 ========
 
-MOOS edx theme.
+Greek Mooc open edx theme.
 
 Based on standford theme [https://github.com/Stanford-Online/edx-default-theme]
 
